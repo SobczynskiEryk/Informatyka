@@ -17,7 +17,7 @@ int main(){
  liczba3=rand();
   cout<<liczba3<<"."<<endl;
 
-  cout<<"Najwiêksza liczba to: ";
+  cout<<"NajwiÃªksza liczba to: ";
   if(liczba1<liczba2){
     if(liczba2>liczba3)
         cout<<liczba2;
